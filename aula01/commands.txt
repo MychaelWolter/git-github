@@ -1,0 +1,7 @@
+git init = inicia o repositorio;
+
+git status = mostra como estar as operacoes;
+
+git add = adiciona os arquivos e pastas, saindo de untracked para unmodified;
+
+
