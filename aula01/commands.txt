@@ -1,9 +1,17 @@
-git init = inicia o repositorio;
+1. git init - Inicializa um repositório Git.
 
-git status = mostra como estar as operacoes;
+   git init
 
-git add = adiciona o arquivos ou a pasta, saindo de untracked para unmodified;
+2. git add - Adiciona arquivos ao staging area.
 
-git add . = adiciona todos os arquivos e pastas;
+   git add nome_do_arquivo
+   git add .
 
-git commit -m = torna rastreavel o arquivo ou pasta, junto com uma mensagem;
+3. git status - Mostra o estado do repositório.
+  
+   git status
+   
+4. git commit - Salva as mudanças.
+   
+   git commit -m "Mensagem"
+   git commit -am "Mensagem"
