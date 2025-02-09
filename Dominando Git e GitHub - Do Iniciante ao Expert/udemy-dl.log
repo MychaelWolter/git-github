@@ -1,0 +1,6 @@
+[2021-07-22 21:34:55,817][udemy-dl] WARNI Lecture : '001 Desfazendo operações com checkout e reset'  (download skipped)
+[2021-07-22 21:34:55,821][udemy-dl] ERROR Reason : HTTPSConnectionPool(host='mp4-c.udemycdn.com', port=443): Read timed out.
+[2021-07-22 21:38:01,403][udemy-dl] WARNI Lecture : '004 Stash para salvar o Pull!'  (download skipped)
+[2021-07-22 21:38:01,405][udemy-dl] ERROR Reason : HTTPSConnectionPool(host='mp4-c.udemycdn.com', port=443): Read timed out.
+[2021-07-22 21:38:52,595][udemy-dl] WARNI Lecture : '001 Novo capítulo a partir de branch - fast forward'  (download skipped)
+[2021-07-22 21:38:52,597][udemy-dl] ERROR Reason : HTTPSConnectionPool(host='mp4-c.udemycdn.com', port=443): Read timed out.
