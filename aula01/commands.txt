@@ -29,7 +29,7 @@
    git config --local - o git fica para cada projeto
 
    ex:
-   git config --global user.name/user.email/core.editor
+   git config --global user.name/user.email/core.editor/-l
 
 8. git restore - Restaura o arquivo modificado
 
@@ -40,3 +40,11 @@
 9. git rm - Remove o arquivo
 
    git rm <file> 
+
+10. git log - Mostra os commits realizados
+
+11. git checkout - Navega pelos commits
+
+   git checkout <hash> - Navega pelos commits passados
+   git checkout master - Volta ao atual
+
