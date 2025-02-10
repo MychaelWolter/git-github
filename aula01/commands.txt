@@ -48,3 +48,6 @@
    git checkout <hash> - Navega pelos commits passados
    git checkout master - Volta ao atual
 
+12. git push - Envia para o GitHub
+
+13. git pull - Baixa do GitHub
