@@ -83,4 +83,14 @@ BRANCHES
    git checkout master - volta para a branch master
 
 
-3.
+3. git merge - mescla as branchs
+
+   git merge <nome da branch q deseja juntar> 
+
+   precisa estar na branch q ira receber os arquivos; 
+   colocar o nome da q vai enviar no comando;
+
+
+4. git log --graph - mostra os commits de forma mais clara
+
+
