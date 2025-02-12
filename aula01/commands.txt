@@ -71,3 +71,16 @@ BASICO GIT E GITHUB
 BRANCHES
 
 
+1. git branch - inicia nova branch
+
+   git branch nome da branch - inicia nova branch com nome
+   git branch - mostra as branchs existentes no repositorio
+
+
+2. git checkout - pode navegar entre as branchs
+
+   git checkout nome da branch - navega entre as branchs atraves do nome
+   git checkout master - volta para a branch master
+
+
+3.
