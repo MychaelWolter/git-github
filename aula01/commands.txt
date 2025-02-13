@@ -93,6 +93,8 @@ BRANCHES
 
 4. git log --graph - mostra os commits de forma mais clara
 
+   git log --graph --oneline - deixa mais simples
+
 
 5. git branch -d <nome da branch> - deleta a branch
 
