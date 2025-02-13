@@ -97,4 +97,10 @@ BRANCHES
 5. git branch -d <nome da branch> - deleta a branch
 
 
-6. 
+6. git checkout -b <nome da branch>
+   
+   shorthand para criar a branch;
+   e entrar nela no mesmo comando;
+
+
+7.
