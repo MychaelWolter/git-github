@@ -105,4 +105,18 @@ BRANCHES
    e entrar nela no mesmo comando;
 
 
-7.
+7. git push origin <nome da branch> - sobe as alterações na branch desejada
+
+
+ISSUES
+
+
+1. git commit -m "mensagem #numero da issue" - junta o commit com o historico da issue
+
+
+2. git commit -m "mensagem closes #numero da issue" - github faz o commit e encerra a issue
+
+
+3. git commit -m "mensagem fixes #numero da issue" - github faz o commit e encerra a issue dizendo que consertou os bugs
+
+
